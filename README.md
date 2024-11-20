@@ -1,5 +1,7 @@
 # FINAL PROJECT
 
+Original code for final project, bugs included.
+
 # GIFS
 
 ![typingtutor](https://github.com/barkeshli-CS066-classroom/99-final-project-typing-tutor-JulioAnzaldo/assets/114134346/86936196-c44d-4073-b54f-f27f4e03e952)
